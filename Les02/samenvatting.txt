@@ -1,0 +1,28 @@
+SAMENVATTING les02
+
+commandline: open de CLI
+
+dir/ls: geef de inhoud van een directory
+
+mkdir: Make Directory
+
+cd: Change Directory
+
+rmdir/rm: remove directory
+
+tree: show directory tree-structure
+
+notepad: [naam bestand]
+
+explorer: .open de GUI (Explorer) in de CWD
+
+
+
+
+drie belangrijke directory namen.
+
+. CWD (Current Working Directory)
+
+.. hogere directory
+
+~home directory
